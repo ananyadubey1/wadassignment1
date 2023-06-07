@@ -1,0 +1,23 @@
+{
+  "name": "assignment-3a",
+  "version": "1.0.0",
+  "description": "static website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananyadubey1/Wadassignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananyadubey1/Wadassignment/issues"
+  },
+  "homepage": "https://github.com/ananyadubey1/Wadassignment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
